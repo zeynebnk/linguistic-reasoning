@@ -1,2 +1,2 @@
 # linguistic-reasoning
-CS224N FInal Project
+Improving robust in-context few-shot multilingual linguistic reasoning in language models.
